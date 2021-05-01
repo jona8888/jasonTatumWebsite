@@ -21,6 +21,7 @@ you can type the following command to clone my repository
 
 ```
 git clone https://github.com/jona8888/jasonTatumWebsite
+```
 
 once you have cloned the repository, youy can run in VScode using live server or preferred method.
 
