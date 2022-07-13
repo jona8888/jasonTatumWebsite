@@ -10,8 +10,8 @@
 
 ## Description
 
-A simple webpage insprired by Jason Tatums 60 pt game built with bootsrap and html5 and grid. learned how to use the bootrap grid, 
-how to space website correctly, and using tables in bootrap to make the site look nice.
+A simple webpage insprired by Jason Tatums 60 pt game built with bootstrap and html5 and grid. learned how to use the bootrap grid, 
+how to space website correctly, and using tables in bootstrap to make the site look nice.
 
 <img src="Tatum-site.png">
 
